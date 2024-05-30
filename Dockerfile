@@ -1,1 +1,1 @@
-FROM quay.io/keycloak/keycloak-x
+FROM quay.io/keycloak/keycloak:24.0.4
